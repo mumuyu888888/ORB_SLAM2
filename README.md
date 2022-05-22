@@ -1,6 +1,6 @@
 # Versions
 - OPENCV 4.5.5 
-- EIGEN 3.3.9
+- EIGEN 3.4
 - Noetic
 - Ubuntu 20.04
 
